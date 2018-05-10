@@ -22,6 +22,11 @@ h1 {
 	padding: 20px;
 }
 
+h2 {
+	text-align: center;
+	color: #636e72;
+}
+
 p {
 	color: white;
 }
@@ -78,13 +83,27 @@ p {
 
 .cuerpo h3 {
 	text-align: center;
+	color: #636e72;
 }
 
 .cuerpo p {
-	color: black;
+	color: #636e72;
 	text-align: center;
 }
 
 .cuerpo img {
 	width: 400px;
+}
+
+.info {
+	background-color: #f1f1f1;
+	padding: 20px;
+	border-top: 1px solid #b2bec3;
+	border-bottom: 1px solid #b2bec3;
+	text-align: center;
+}
+
+.info p {
+	color: #636e72;
+	text-align: center;
 }
