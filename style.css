@@ -26,6 +26,13 @@ p {
 	color: white;
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 .btn-1 {
 	background-color: #0984e3;
 	color: white;
@@ -67,4 +74,17 @@ p {
 	width: 200px;
 	padding: 50px;
 	max-width: 200px;
+}
+
+.cuerpo h3 {
+	text-align: center;
+}
+
+.cuerpo p {
+	color: black;
+	text-align: center;
+}
+
+.cuerpo img {
+	width: 400px;
 }
