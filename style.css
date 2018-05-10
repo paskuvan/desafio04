@@ -16,6 +16,43 @@ nav ul li {
 	padding: 50px;
 }
 
+h1 {
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+
+.btn-1 {
+	background-color: #0984e3;
+	color: white;
+	border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.btn-2 {
+	background-color: #00b894;
+	color: white;
+	border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.botones {
+	padding: 20px 0 30px 0;
+	text-align: center;
+}
+
 .bgimage {
 	background-image: url('images/bg.jpeg');
 	background-size: cover;
