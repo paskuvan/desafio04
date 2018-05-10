@@ -11,7 +11,12 @@ body {
 }
  nav ul li {
      padding: 50px 25px 0px 0px;
+     text-decoration: none;
+     color: white;
 }
+
+
+
  h1 {
      color: white;
      text-align: center;
@@ -59,12 +64,12 @@ body {
      background-color: #b2bec3;
      color: white;
      border: none;
-     padding: 15px 32px;
+     padding: 10px 32px;
      text-align: center;
      text-decoration: none;
      display: inline-block;
      font-size: 16px;
-     margin: 4px 2px;
+     margin: 12px 2px;
      cursor: pointer;
 }
 
@@ -108,10 +113,10 @@ body {
      padding: 40px;
 }
  .left {
-     float: left;
+     
 }
  .right {
-     float: right;
+     
 }
  .label-style {
      box-sizing: border-box;
@@ -119,5 +124,13 @@ body {
      border-radius: 3px;
      padding: 7px;
      outline: none;
+}
+
+.detalle {
+     text-align: left;
+     text-transform: uppercase;
+     background-color: black;
+     color: white;
+     padding: 20px;
 }
  
