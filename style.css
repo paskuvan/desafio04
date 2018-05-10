@@ -109,5 +109,13 @@ p {
 }
 
 .footer {
-	padding: 50px;
+	padding: 30px;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
 }
