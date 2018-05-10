@@ -22,6 +22,10 @@ h1 {
 	padding: 20px;
 }
 
+p {
+	color: white;
+}
+
 .btn-1 {
 	background-color: #0984e3;
 	color: white;
